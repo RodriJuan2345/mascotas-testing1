@@ -1,0 +1,17 @@
+
+{
+  "mascotas": [
+    {
+      "id": 1,
+      "nombre": "Firulais",
+      "tipo": "Perro",
+      "edad": 3
+    },
+    {
+      "id": 2,
+      "nombre": "Michi",
+      "tipo": "Gato",
+      "edad": 2
+    }
+  ]
+}
